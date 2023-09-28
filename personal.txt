@@ -1,0 +1,8 @@
+personal
+
+project name = Stocking
+cluster name =  alsoStocking
+username = kishankevadiya123
+password = CP58ZrlUooGxs2yV
+databaseName = manageByMe
+collectionName = Products

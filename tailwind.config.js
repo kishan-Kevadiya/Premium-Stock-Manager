@@ -12,6 +12,12 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      cursor: {
+        'no-drop': 'not-allowed',
+      },
+      fontWeight: {
+        'bold-number': '700', // You can adjust the weight as needed
+      },
     },
   },
   plugins: [],
